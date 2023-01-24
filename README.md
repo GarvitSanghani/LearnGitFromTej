@@ -1,0 +1,2 @@
+# LearnGitFromTej
+learning git
